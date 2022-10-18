@@ -1,4 +1,4 @@
-package basicOfProgramming.file.functionsForWriteToOrReadDataFromFile;
+package basicOfProgramming.file.functionsForWriteToOrReadDataFromFile.task;
 
 import java.io.FileWriter;
 import java.io.IOException;

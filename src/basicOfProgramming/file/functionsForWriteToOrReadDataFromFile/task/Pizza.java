@@ -1,4 +1,4 @@
-package basicOfProgramming.file.functionsForWriteToOrReadDataFromFile;
+package basicOfProgramming.file.functionsForWriteToOrReadDataFromFile.task;
 
 public class Pizza {
     String pizza;
