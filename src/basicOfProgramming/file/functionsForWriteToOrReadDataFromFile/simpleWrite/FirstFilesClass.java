@@ -1,4 +1,4 @@
-package basicOfProgramming.file.functionsForWriteToOrReadDataFromFile;
+package basicOfProgramming.file.functionsForWriteToOrReadDataFromFile.simpleWrite;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
